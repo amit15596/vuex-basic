@@ -29,7 +29,7 @@ mapState
         mapState({msg:"StatePropertyName"})
 	
     2) mutiple property
-        mapState(["property1","property2"])
+        ...mapState(["property1","property2"])
 
 mapGatters
     1) single fuction
